@@ -1,0 +1,37 @@
+.dog{
+    display: flex;
+    width: 100%;
+}
+
+    
+
+.more{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+
+.chenga{
+    display: flex;
+
+    
+}
+
+.img{
+    width: 50%;
+    height: 50%;
+}
+.zam{
+    text-align: center;
+}
+
+.chophel{
+    width: 200px;
+    text-align: center;
+}
+.ending{
+  background-color: rgb(47, 157, 236);
+  display: flex;
+}
+
